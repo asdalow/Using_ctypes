@@ -1,4 +1,5 @@
 #Basic tutorial on how to use ctypes
+
 Run: sh make
 It will create the library: libsum.so.1
 This library contains a sum function, you can see its definition in sum.h, sum.c. It receives a pointer to a double array, sums its contents, increases one of its elements and returns the previously calculated sum.
