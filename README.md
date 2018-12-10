@@ -1,4 +1,4 @@
-#Basic tutorial on how to use ctypes
+# Basic tutorial on how to use ctypes
 
 Run: sh make
 It will create the library: libsum.so.1
